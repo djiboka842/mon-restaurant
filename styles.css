@@ -1,0 +1,20 @@
+      @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body
+    font-family: 'Roboto', sans-serif; /* Applique la police Roboto */
+    background-color: #fdf6ec;
+    color: #333333;
+    margin: 20px;
+}
+
+/* Rendre la barre de navigation inline (côte à côte) */
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+}
+
+h1 {
+    color: #d9534f;
+}
